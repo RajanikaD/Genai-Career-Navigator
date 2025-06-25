@@ -18,16 +18,6 @@ It extracts your technical skills from a PDF resume, visualizes your current ski
 
 ---
 
-## 📸 App Screenshots
-
-### 🎯 Full Resume Skill Extraction and Career Insights
-<p align="center"> <img src="Screenshot 2025-06-24 195326.png" width="800"/> </p>
-
-### 📝 Fresh Start Interface
-<p align="center"> <img src="Screenshot 2025-06-24 195308.png" width="600"/> </p>
-
----
-
 ## 🔧 Tech Stack
 
 | Tool        | Purpose                              |

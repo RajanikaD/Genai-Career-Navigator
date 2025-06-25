@@ -3,7 +3,7 @@
 An interactive web app to guide your **GenAI career** based on your resume!  
 It extracts your technical skills from a PDF resume, visualizes your current skill landscape, and suggests **advanced AI/LLM/GenAI skills** to learn next.
 
-![App Preview - Resume Analysis](./assets/genai_dashboard_with_skills.png)
+![App Preview - Resume Analysis](Screenshot 2025-06-24 195326.png)
 
 ---
 
@@ -21,10 +21,10 @@ It extracts your technical skills from a PDF resume, visualizes your current ski
 ## 📸 App Screenshots
 
 ### 🎯 Full Resume Skill Extraction and Career Insights
-![Screenshot 1](./assets/genai_dashboard_with_skills.png)
+Screenshot 2025-06-24 195326.png
 
 ### 📝 Fresh Start Interface
-![Screenshot 2](./assets/genai_dashboard_blank.png)
+Screenshot 2025-06-24 195308.png
 
 ---
 
